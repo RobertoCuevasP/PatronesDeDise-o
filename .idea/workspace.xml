@@ -2,37 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6d3a52b-8fac-4791-b89b-2d17bc811d5b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/_1memento/Backup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_1memento/BaseDeDatos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_1memento/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_1memento/Memento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_1memento/Originator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_1memento/Persona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_1memento/_enunciado" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_2chainOfResponsability/CertificadoNacimiento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_2chainOfResponsability/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_2chainOfResponsability/HandlerAyudaAlCliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_2chainOfResponsability/HandlerCajero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_2chainOfResponsability/HandlerNotario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_2chainOfResponsability/HandlerResponsableCarnetizacion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_2chainOfResponsability/IHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_2chainOfResponsability/Organizador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_2chainOfResponsability/Persona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_2chainOfResponsability/_enunciado" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_3memento/Caretaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_3memento/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_3memento/Memento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_3memento/Originator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_3memento/Tesis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_3memento/_enunciado" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_4chainOfResponsability/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_4chainOfResponsability/HandlerCabo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_4chainOfResponsability/HandlerCoronel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_4chainOfResponsability/HandlerGeneral.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_4chainOfResponsability/HandlerTeniente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_4chainOfResponsability/IHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_4chainOfResponsability/Organizador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_4chainOfResponsability/_enunciado" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PatronesDiseno.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PatronesDiseno.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
