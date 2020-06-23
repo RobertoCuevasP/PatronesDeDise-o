@@ -1,0 +1,3 @@
+Se tienen diferentes tipos de cuentas : ahorro (interes 2%) , plazo fijo (interés 5%),
+crédito pero cada uno de estos puede ser en diferentes tipos de monedas : bolivianos, dólares y
+euros.(la lógica del tipo de cambio debería de estar basado en un atributo monto en bolivianos)
