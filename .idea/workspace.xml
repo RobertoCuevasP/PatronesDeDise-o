@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b6d3a52b-8fac-4791-b89b-2d17bc811d5b" name="Default Changelist" comment="Corrección error de Package">
-      <change afterPath="$PROJECT_DIR$/src/main/java/godObject/ejemplo/Usuario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/godObject/ejemploBienImplementado/EstadisticasUsuario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/godObject/ejemploBienImplementado/Loggin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/godObject/ejemploBienImplementado/Perfil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/godObject/ejemploBienImplementado/Saldo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practica4/ej1Strategy/Celular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practica4/ej1Strategy/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practica4/ej1Strategy/IStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practica4/ej1Strategy/StrategyMuchosDatos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practica4/ej1Strategy/StrategyPocosDatos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practica4/ej1Strategy/TiendaCelulares.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practica4/ej1Strategy/_enunciado" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+    <list default="true" id="b6d3a52b-8fac-4791-b89b-2d17bc811d5b" name="Default Changelist" comment="Practica 5">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +40,8 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -172,7 +155,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Corrección error de Package" />
-    <option name="LAST_COMMIT_MESSAGE" value="Corrección error de Package" />
+    <MESSAGE value="Practica 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practica 5" />
   </component>
   <component name="WindowStateProjectService">
     <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser" timestamp="1592866665401">
@@ -183,10 +167,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="505" y="288" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1591618311941" />
-    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1591618911388">
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1592912772259">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1591618911388" />
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1592912772259" />
     <state width="1323" height="153" key="GridCell.Tab.0.bottom" timestamp="1591994896680">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
